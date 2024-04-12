@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\School\\SET\\Thid Year (CENT)\\Semester 2\\DevOpsImp-367\\Lab3\\Question 2\\MVC-Agile-Process\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "E:\\School\\SET\\Thid Year (CENT)\\Semester 2\\DevOpsImp-367\\Lab4\\Question 2\\MVC-Agile-Process\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "E:\\School\\SET\\Thid Year (CENT)\\Semester 2\\DevOpsImp-367\\Lab3\\Question 2\\MVC-Agile-Process\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "E:\\School\\SET\\Thid Year (CENT)\\Semester 2\\DevOpsImp-367\\Lab4\\Question 2\\MVC-Agile-Process\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\Josh\\.nuget\\packages\\",
-      "outputPath": "E:\\School\\SET\\Thid Year (CENT)\\Semester 2\\DevOpsImp-367\\Lab3\\Question 2\\MVC-Agile-Process\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "E:\\School\\SET\\Thid Year (CENT)\\Semester 2\\DevOpsImp-367\\Lab4\\Question 2\\MVC-Agile-Process\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Josh\\AppData\\Roaming\\NuGet\\NuGet.Config",
